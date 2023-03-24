@@ -92,10 +92,10 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
             <li><a class="dropdown-item" href="ReadAllStories.php#S8">Church of Saint Thomas and Saint Philip</a></li>
          
           </ul>
-           <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="About.php">About</a>
+           
         </li>
-        
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="About.php">About</a>
         </li>
        <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact Us</a>
