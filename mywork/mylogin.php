@@ -98,7 +98,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
           <a class="nav-link active" aria-current="page" href="About.php">About</a>
         </li>
        <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact Us</a>
+          <a class="nav-link active" href="contact.php">Contact Us</a>
         </li>
       </ul>
       <div class="d-flex">
@@ -113,7 +113,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <div class=" container my-5">
 <form  method = "post" class="container justify-content-center border border-dark-subtle p-5 border-opacity-10 rounded-5 w-50 my-5  bg-dark-subtle text-emphasis-dark login">
-  <h2 class="text-center">Please Login</h2>
+  <h2 class="text-center">Log in</h2>
   <div class="mb-3">
     <label for="usr" class="form-label">Username</label>
     <input type="text" class="form-control" id="usr" name="user_name" placeholder="username">
@@ -127,9 +127,9 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
   </div>
-  <button type="submit" class="btn btn-primary">Login</button><br><br>
-  <p>Or</p>
-  <a class="btn btn-success" href="mysignup.php" role="button">Sign Up</a>
+  <button type="submit" class="btn btn-primary">Log In</button><br><br><br>
+  <p><pre>Need an account?  <a class="btn btn-success" href="mysignup.php" role="button">Sign Up</a></pre></p>
+ 
 </form>
 
 </main>

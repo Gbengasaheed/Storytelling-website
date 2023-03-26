@@ -50,7 +50,7 @@
           <a class="nav-link active" aria-current="page" href="About.php">About</a>
         </li>
        <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact Us</a>
+          <a class="nav-link active" href="contact.php">Contact Us</a>
         </li>
       </ul>
       <div class="d-flex">
@@ -65,7 +65,7 @@
 <main>
   <div  class="container">
 	
-<h2 class="text-center"> ABOUT US </h2><br><br>
+<h2 class="text-center p-3 my-5"> ABOUT US </h2><br><br>
 
 <p>This community was created for tourists, residents, you, and me, to learn more about the beautiful city of Valencia in Spain. There are a lot of stories to tell; the culture; the food; the people; the football clubs; fast cars; etc.</p> 
 
@@ -78,16 +78,6 @@
 As you were!!! Read a story.<p><br><br><br>
 </div>
 </main>
-<footer>
-  <div class="container-fluid text-center bg-dark border border-dark-subtle text-white w-100 p-4">
-    <h5>STAY CONNECTED!</h5><br><br>
-   <p><img src="image/email.jpg" id = "email" alt="email"> Email: g.akande@gmail.com</p><br>
-   <p><img src="image/phone.jpg" id = "phone" alt="phone"> Phone Number: +4423456789</p><br>
-   <p><img src="image/address.jpg" id = "address" alt="address"> Address: Robert Gordon University</p>
-
-  </div>
-
-  </footer>
 
 
 

@@ -62,7 +62,7 @@
 </nav>
 </header> 
 <main>
-  <div class="bgimage" style="background-image: url('./image/contact.jpg'); alt:cityscape of the city arts and sciences in valencia, Spain;">
+  <div class="bgimage img-fluid" style="background-image: url('./image/contact.jpg'); alt:cityscape of the city arts and sciences in valencia, Spain;">
   <div class="container my-2 float-start w-75 bg-light border border-light-subtle rounded-start-pill">
     <h1 class=" w-50 text-white my-4 p-4 bg-dark border border-dark-subtle rounded-start-pill" style="font-size: 2rem;">Contact Us</h1>
   </div>

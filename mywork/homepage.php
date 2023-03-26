@@ -49,7 +49,7 @@
           <a class="nav-link active" aria-current="page" href="About.php">About</a>
         </li>
        <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact Us</a>
+          <a class="nav-link active" href="contact.php">Contact Us</a>
         </li>
       </ul>
       <div class="d-flex">
